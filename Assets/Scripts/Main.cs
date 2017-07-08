@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
-using awill;
+using awillInc;
 
 public class Main : MonoBehaviour {
 	public ImgDisp IMG_PREFAB;

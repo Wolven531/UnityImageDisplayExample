@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace awill {
+namespace awillInc {
     public class ImgDisp : MonoBehaviour
     {
         /// <summary>
